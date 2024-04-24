@@ -1,5 +1,4 @@
-
 from bicicletaria import Bicicleta
 
 caloi = Bicicleta('vermelha', 'caloi', 2022, 650)
-print(caloi)
+print(f'caloi >> {caloi}')
